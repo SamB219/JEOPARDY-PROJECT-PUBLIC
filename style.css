@@ -1,0 +1,204 @@
+/* First Page */
+
+.Headers{
+    font-size: 25px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+#img_1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: 45%;
+    /* border-style: solid; */
+}
+
+
+.PB_Parent_Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.play_button {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    background-color: rgb(132, 149, 207);
+
+}
+
+
+
+
+
+/* Round-1 CSS Below */
+
+.small_header{
+    font-size: 20px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+/* wrapper*/
+.wrapper{
+    width: 90%;
+    margin: 0 auto;
+}
+
+table{
+    width: 100%;
+}
+
+/* CATEGORYS */
+
+.category{
+    height: 53px;
+    border-style: solid;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(77, 77, 206);
+}
+
+/* Points */
+
+.Points{
+    height: 50px;
+    border-style: solid;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* USER INPUT */
+.input_bubble{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    height: 40px;
+}
+
+/* GUESS PASS BUTTONS */
+
+.guess_pass{
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 50px;
+    font-size:100% ;
+    font-weight: bold;
+    background-color: rgb(77, 77, 206);
+}
+
+/* Player Score Paragraphs */
+
+
+.score_con{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+/* NEXT/MAIN BUTTONS */
+
+
+.return_next_button{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+.next_round{
+
+
+    height: 80px;
+    font-size:100% ;
+    font-weight: bold;
+    background-color: rgb(77, 77, 206);
+}
+
+
+/* Last Page Table */
+
+
+.wrapper_2{
+    width: 68%;
+    margin: 0 auto;
+   
+}
+.F_CATEGORY{
+    height: 60px;
+    border-style: solid;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(77, 77, 206);   
+}
+
+.F_QUEST{
+    
+    
+    height: 430px;
+    border-style: solid;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* WHY DOESNT THIS EFFECT THE TABLES ON MY OTHER PAGES? I THOUGHT IT WOULD?
+IS IT BECAUSE I HAVE ANOTHER TABLE CSS ABOVE? */
+
+
+table{
+    padding-top: 30px;
+}
+
+
+/* bet button */
+
+.Bet_Button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    background-color: rgb(77, 77, 206);
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* FOOTERS */
+
+.Foot{
+/* final page footer */
+    margin-top: 90px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 40px;
+    display: inline-block;
+    border-style: solid;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.Footer{
+    margin-top: 80px;
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+  
+   
+    
+
+}

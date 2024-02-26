@@ -8,8 +8,8 @@ This site will consist of 4 pages: a landing page, a first round page, a second 
 
 At the following link, you will find a Figma containing the four wireframes necessary for this project.
 
-**[Link to Project Wireframes](https://www.figma.com/file/w9CN0fvM7gqYtKiGYXxvXv/jeopardy-wireframes?node-id=0%3A1)**
-
+**[Link to Project Wireframes]()**
+https://www.figma.com/file/w9CN0fvM7gqYtKiGYXxvXv/jeopardy-wireframes?node-id=0%3A1
 ## Stories
 
 ## The Landing Page

@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "jeopardy-jeopardy",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "jeopardy-jeopardy"
+	}
+}
